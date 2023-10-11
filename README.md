@@ -1,5 +1,5 @@
 # first-project-
-This is my first Repository. 
+<h3>This is my first Repository.</h3>  
 <br>
-<BOLD>Author - Sanjana Gupta</BOLD>  
+Author - Sanjana Gupta 
 </br>
